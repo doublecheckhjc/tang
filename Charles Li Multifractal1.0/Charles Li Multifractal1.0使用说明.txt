@@ -1,0 +1,9 @@
+使用说明： 
+    Charles Li Multifractal1.0工具箱用于计算股价数据的多层分型谱。
+    目前主函数为MultifractalRE，用于计算某一天的多层分形谱。
+    MulDataGenerator和MulGetdate主要用于生成函数所需格式的数据。
+    TData1.mat中保存的是沪深300 五分钟数据。
+    Script_MultifractalRE是调用脚本。具体使用说明见每个函数。
+    工具箱画图有Bug，即循环画图时重复添加图例，希望大家能够指出解决方法哈！
+    目前仅仅写出了谱函数，具体交易策略还在寻优中，也希望大家能够一起研究！
+    我的邮箱是spacegoing@gmail.com如果您有任何疑问和建议欢迎与我联系！

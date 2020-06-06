@@ -1,0 +1,14 @@
+clc
+clear
+close all
+load 101.mat;
+A1=B;
+load 201.mat;
+A2=B;
+load 301.mat;
+A3=B;
+load 401.mat;
+A4=B;
+load 50.mat;
+A5=B;
+load 
